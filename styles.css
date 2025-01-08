@@ -1,1 +1,66 @@
 /*  your css code here. If applicable */
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 20px auto;
+	gap: 1px;
+	padding: 1px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 1px;
+    text-align: left;
+}
+
+h1 {
+	text-align: center;
+}
+
+.middle {
+    text-align: center;
+	width:96%;
+	border-collapse: collapse;
+	margin-bottom:40px;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+#t11 {
+	text-align: left;
+}
+
+#t12 {
+	text-align: center;
+}
+
+#t13 {
+	text-align: right;
+}
+
+#table-2 {
+	height: 100px;
+}
+
+#t-image {
+	text-align: center;
+} 
+
+.green {
+	background-color: green;
+	color: white;
+	height: 20px;
+}
+
+.blue {
+	background-color: blue;
+	color: white;
+	height: 20px;
+}
